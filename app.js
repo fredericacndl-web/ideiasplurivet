@@ -6,7 +6,7 @@
    Enquanto estiver vazio, a app funciona em modo local:
    as sugestões ficam só no aparelho de quem as escreve.
    ========================================================= */
-const API_URL = 'https://script.google.com/macros/s/AKfycbxK7...blá blá.../exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbxXISc_K0XmYj0myV2hBfdoP1UYDgzj0vM83IojZyZPkZcsSdPwBAnUX4ZCXvI5oXzwKw/exec';
 
 /* ---------- Colaboradores autorizados ---------- */
 const authorizedCollaborators = [
