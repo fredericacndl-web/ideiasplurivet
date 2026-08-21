@@ -8,8 +8,8 @@
 
 // ---------- Configuração ----------
 const ADMIN_EMAILS = ['fredericacndl@gmail.com', 'flima@plurivet.pt'];
-const SHEET_NAME   = 'Sugestões';
-const FOLDER_NAME  = 'Ideias Plurivet — Anexos';
+const SHEET_NAME   = 'Ideias Plurivet — Sugestões';
+const FOLDER_NAME  = 'PLURIVET';
 // Pasta do Drive onde vive a folha de sugestões. A subpasta dos anexos é
 // criada aqui dentro, para manter o projeto todo arrumado no mesmo sítio.
 // Deixar vazio ('') coloca a subpasta na raiz do Drive.
